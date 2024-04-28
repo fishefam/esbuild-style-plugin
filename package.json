@@ -1,6 +1,6 @@
 {
   "name": "esbuild-plugin-style",
-  "version": "1.6.3",
+  "version": "0.0.1",
   "description": "This is a fork for personal use.",
   "types": "./dist/index.d.ts",
   "main": "./dist/index",
